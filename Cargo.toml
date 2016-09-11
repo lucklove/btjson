@@ -1,0 +1,7 @@
+[package]
+name = "btjson"
+version = "0.1.0"
+authors = ["Jos <gnu.crazier@gmail.com>"]
+
+[dependencies]
+json = "*"
